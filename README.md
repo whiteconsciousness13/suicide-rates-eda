@@ -22,7 +22,7 @@ The analysis is done within the Jupyter notebook `Suicide Rate Analysis Notebook
 
 You can directly view the `Suicide Rate Analysis Notebook` by clicking the link below:
 
-- **[Suicide Rate Analysis Notebook](/notebooks/rtp.ipynb)**
+- **[Suicide Rate Analysis Notebook](/notebook/rtp.ipynb)**
 
 Note: Ensure that the notebook is run in a compatible environment such as Jupyter Notebook or JupyterLab.
 
