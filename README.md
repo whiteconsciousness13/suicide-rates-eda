@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on global suicide rates
 
 ## Repository Structure
 
-- **notebooks**: Contains the Jupyter notebook used for the analysis.
+- **notebook**: Contains the Jupyter notebook used for the analysis.
 - **data**: Folder containing the raw data (if applicable).
 - **README.md**: This file, providing an overview of the project.
 
