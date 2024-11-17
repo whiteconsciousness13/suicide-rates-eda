@@ -25,6 +25,6 @@ This folder contains the Jupyter Notebook used for the **suicide rate analysis**
 
 ## File
 
-- **Notebook File**: [Suicide Rate Analysis Notebook](suicide-rates-eda/notebook/rtp.ipynb)
+- **Notebook File**: [Suicide Rate Analysis Notebook](/notebook/rtp.ipynb)
 
 This notebook contains all the steps of data cleaning, transformation, and analysis for the suicide rate dataset.
