@@ -20,8 +20,17 @@ This folder contains the Jupyter Notebook used for the **suicide rate analysis**
 
 ## Conclusion
 
-- Key findings and insights from the data analysis are summarized.
-- The notebook provides a complete end-to-end analysis pipeline from data cleaning to visualization.
+This analysis of global suicide rates across various demographics (gender, age, country, and continent) reveals significant trends that can be pivotal in understanding mental health issues globally. Key findings include:
+
+- Peak suicide rate was 15.7 deaths per 100k in 1995
+- Decreased to 10.8 per 100k in 2015
+- Europe has the highest rate
+- Trends for Africa are inaccurate due to poor quality data
+- Both male & female suicide rates peaked in 1995
+- Globally, suicide rate increases with age
+- Lithuania has the highest rate
+- I analyzed average GDP per capita (wealth) versus overall suicide rates for each country. To understand the potential link between economic well-being and suicide rates, I calculated the mean GDP per capita for each country across all years with available data. This provides a single value representing a country's average wealth. I then compared this value to the country's overall suicide rate across the same period.
+- Hence, GDP (per capita) explains very little of the variance in suicide rate overall. There is a weak but significant positive linear relationship - richer countries are associated with higher rates of suicide, but this is a weak relationship which can be seen from graph abov
 
 ## File
 
