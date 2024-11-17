@@ -1,5 +1,3 @@
-# Notebooks Folder Description
-
 This folder contains the Jupyter Notebook used for the **suicide rate analysis** project. The notebook is structured to perform the following tasks:
 
 ## Data Import and Cleaning
